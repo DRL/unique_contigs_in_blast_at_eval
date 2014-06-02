@@ -1,0 +1,11 @@
+contig_13	gi|312075388|ref|XM_003140347.1|	72.85	151	39	2	66	215	664	813	1e-50	80.6	Loa loa	nematodes	Loa loa notch protein (LOAG_04813) mRNA, complete cds
+contig_13	gi|312075388|ref|XM_003140347.1|	72.85	151	39	2	66	215	664	813	1e-11	80.6	Loa loa	nematodes	Loa loa notch protein (LOAG_04813) mRNA, complete cds
+contig_13	test	72.85	151	39	2	66	215	664	813	1e-11	80.6	Loa loa	nematodes	Loa loa notch protein (LOAG_04813) mRNA, complete cds
+contig_22	gi|312089644|ref|XM_003146275.1|	94.00	50	3	0	1	50	911	960	4e-10	77.0	Loa loa	nematodes	Loa loa STE/STE20/MSN protein kinase (LOAG_10751) mRNA, complete cds
+contig_22	gi|312089644|ref|XM_003146275.1|	94.00	50	3	0	1	50	911	960	4e-30	77.0	Loa loa	nematodes	Loa loa STE/STE20/MSN protein kinase (LOAG_10751) mRNA, complete cds
+contig_22	gi|312089644|ref|XM_003146275.1|	70.40	125	25	1	1283	1395	1411	1535	8e-07	66.2	Loa loa	nematodes	Loa loa STE/STE20/MSN protein kinase (LOAG_10751) mRNA, complete cds
+contig_27	gi|170594370|ref|XM_001901902.1|	83.05	59	10	0	33	91	165	107	1e-40	62.6	Brugia malayi	nematodes	Brugia malayi Tropomodulin family protein partial mRNA
+contig_27	gi|170594370|ref|XM_001901902.1|	83.05	59	10	0	33	91	165	107	1e-06	62.6	Brugia malayi	nematodes	Brugia malayi Tropomodulin family protein partial mRNA
+contig_27	gi|170594370|ref|XM_001901902.1|	83.05	59	10	0	33	91	165	107	1e-10	62.6	Brugia malayi	nematodes	Brugia malayi Tropomodulin family protein partial mRNA
+contig_27	gi|170594370|ref|XM_001901902.1|	83.05	59	10	0	33	91	165	107	1e-06	62.6	Brugia malayi	nematodes	Brugia malayi Tropomodulin family protein partial mRNA
+contig_27	test2	83.05	59	10	0	33	91	165	107	1e-06	62.6	Brugia malayi	nematodes	Brugia malayi Tropomodulin family protein partial mRNA
